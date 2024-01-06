@@ -1,0 +1,5 @@
+
+COMMENT SUPPRIMER MON COMPTE f-MONEY ?
+
+Pour supprimer votre compte vous devez entrer sur parametres>supprimer mon compte>supprimer puis renseigner votre mot de passe pour supprimer votre compte. 
+Une fois que votre compte est supprimer vous ne pouvez plus recuprer votre compte (Tout vos données serontsupproimés de la base de donné).
